@@ -56,4 +56,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues if y
 ## 📜 License
 
 
-Enjoy playing Tic-Tac-Toe! May the best player (or AI) win! 🏆
+Enjoy playing Tic-Tac-Toe! May the best player win! 🏆
