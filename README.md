@@ -30,7 +30,7 @@ To run the game, you'll need a MIPS assembly simulator. We recommend using [MARS
 2. Take turns with the computer placing symbols on the grid
 3. Try to outsmart the computer and win the game!
 
-## 🧠 AI Strategy (V2)
+## 🧠 Play against the Computer - Strategy (V2)
 
 The computer in V2 uses a simple strategy to play the game. It prioritizes:
 
